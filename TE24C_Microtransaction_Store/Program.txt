@@ -1,0 +1,29 @@
+﻿
+
+bool success = false;
+int numInt = 0;
+
+
+
+while (success != true)
+{
+    string num = Console.ReadLine();
+    success = int.TryParse(num, out numInt);
+    if (success == false)
+    {
+        Console.WriteLine("nej");
+    }
+}
+
+// if (num.All(char.IsDigit))
+// {
+//     numInt = int.Parse(num)
+// }
+
+// numInt = int.Parse(num);
+
+int sum = numInt * 2;
+
+Console.WriteLine(sum);
+
+Console.ReadLine();

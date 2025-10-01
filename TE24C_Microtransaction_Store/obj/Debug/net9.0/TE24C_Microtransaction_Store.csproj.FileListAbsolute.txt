@@ -1,0 +1,14 @@
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\TE24C_Microtransaction_Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\TE24C_Microtransaction_Store.AssemblyInfoInputs.cache
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\TE24C_Microtransaction_Store.AssemblyInfo.cs
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\TE24C_Microtransaction_Store.csproj.CoreCompileInputs.cache
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\bin\Debug\net9.0\TE24C_Microtransaction_Store.exe
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\bin\Debug\net9.0\TE24C_Microtransaction_Store.deps.json
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\bin\Debug\net9.0\TE24C_Microtransaction_Store.runtimeconfig.json
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\bin\Debug\net9.0\TE24C_Microtransaction_Store.dll
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\bin\Debug\net9.0\TE24C_Microtransaction_Store.pdb
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\TE24C_Microtransaction_Store.dll
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\refint\TE24C_Microtransaction_Store.dll
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\TE24C_Microtransaction_Store.pdb
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\TE24C_Microtransaction_Store.genruntimeconfig.cache
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\ref\TE24C_Microtransaction_Store.dll
