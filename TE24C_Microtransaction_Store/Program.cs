@@ -1,7 +1,12 @@
+int peng = 100;
+int yxkostnad;
+int blomkostnad;
+int limpkostnad;
+
+Console.WriteLine("vad heter du");
 string namn = Console.ReadLine();
 
-int peng = 100;
-int itemkostnad;
 
-Console.WriteLine($"welcom {namn} this is a store, you have 100 kr");
+Console.WriteLine($"välkommen {namn} this is a store, you have 100 pengar");
 
+Console.ReadLine();

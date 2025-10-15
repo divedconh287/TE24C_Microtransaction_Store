@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TE24C_Microtransaction_Store", "TE24C_Microtransaction_Store.csproj", "{4C109FD4-55DD-079B-8F5B-0756388F7FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C109FD4-55DD-079B-8F5B-0756388F7FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C109FD4-55DD-079B-8F5B-0756388F7FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C109FD4-55DD-079B-8F5B-0756388F7FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C109FD4-55DD-079B-8F5B-0756388F7FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E264ACD-1555-4D1B-ACDE-D647F13BAB6D}
+	EndGlobalSection
+EndGlobal

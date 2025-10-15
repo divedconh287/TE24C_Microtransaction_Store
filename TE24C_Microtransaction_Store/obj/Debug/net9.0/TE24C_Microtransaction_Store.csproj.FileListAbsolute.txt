@@ -12,3 +12,4 @@ C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE
 C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\TE24C_Microtransaction_Store.pdb
 C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\TE24C_Microtransaction_Store.genruntimeconfig.cache
 C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\ref\TE24C_Microtransaction_Store.dll
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Microtransaction_Store\TE24C_Microtransaction_Store\obj\Debug\net9.0\TE24C_Microtransaction_Store.sourcelink.json
