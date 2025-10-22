@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TE24C_Microtransaction_Store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f84b5215c8db16d5dedf68d71826bf0a72c26eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db3d0d8e4ffd3693980e5aba73593129a186641")]
 [assembly: System.Reflection.AssemblyProductAttribute("TE24C_Microtransaction_Store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TE24C_Microtransaction_Store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
